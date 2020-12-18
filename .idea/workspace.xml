@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b99a802-d285-4109-969a-995c48ac7bd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/akka-quickstart-java/micronaut-cli.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-quickstart-java/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/HomestateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/TempratureUnits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/example/AkkaQuickstart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/example/Greeter$Greet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/example/Greeter$Greeted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/example/Greeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/example/GreeterBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/example/GreeterMain$SayHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/example/GreeterMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/BlindsMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/BlindsMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/HomeAutomationWebservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/HomeAutomationWebservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/HomeState.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/HomeState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/enviroment/TempretureMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/enviroment/TempretureMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/heating/ACActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/heating/ACActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/heating/ACMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/heating/ACMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/media/MedaiMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/com/lab3/media/MedaiMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/main/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/bin/main/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/bin/test/com/example/AkkaQuickstartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/example/AkkaQuickstart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/example/Greeter$Greet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/example/Greeter$Greeted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/example/Greeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/example/GreeterBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/example/GreeterMain$SayHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/example/GreeterMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/Blackboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/Blackboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/BlindsActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/BlindsActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/BlindsMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/BlindsMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/HomeAutomationWebservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/HomeAutomationWebservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/HomeState.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/HomeState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/IMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/IMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/actors/ActorTyp.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/actors/ActorTyp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/EnvTempMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/EnvTempMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/TempSensor.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/TempSensor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/TemperatureSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/TemperatureSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/TempretureMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/TempretureMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/WheatherMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/WheatherMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/WheatherSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/enviroment/WheatherSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/heating/ACActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/heating/ACActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/heating/ACMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/heating/ACMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/media/MedaiMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/media/MedaiMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/media/MediaStationActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/classes/java/main/com/lab3/media/MediaStationActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/distributions/akka-quickstart-java.tar" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/distributions/akka-quickstart-java.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/distributions/akka-quickstart-java.zip" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/distributions/akka-quickstart-java.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/libs/akka-quickstart-java.jar" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/libs/akka-quickstart-java.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/reports/tests/test/classes/com.example.AkkaQuickstartTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/reports/tests/test/packages/com.example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/resources/main/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/resources/main/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/scripts/akka-quickstart-java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/scripts/akka-quickstart-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/scripts/akka-quickstart-java.bat" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/scripts/akka-quickstart-java.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/test-results/test/TEST-com.example.AkkaQuickstartTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/example/AkkaQuickstart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/example/Greeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/example/GreeterBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/example/GreeterMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/BlindsMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/BlindsMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/HomeAutomationWebservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/HomeAutomationWebservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/HomeState.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/HomeState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/enviroment/TempretureMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/enviroment/TempretureMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/heating/ACActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/heating/ACActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/heating/ACMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/heating/ACMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/media/MedaiMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lab3/media/MedaiMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/src/main/resources/logback.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/akka-quickstart-java" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lZZJy7G3HWxtjzRoGHyCllKFjp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/akka-quickstart-java" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="recording" autostart="false" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b99a802-d285-4109-969a-995c48ac7bd9" name="Default Changelist" comment="" />
+      <created>1607806506269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607806506269</updated>
+      <workItem from="1607806507593" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607806524252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607806524252" />
+  </component>
+</project>

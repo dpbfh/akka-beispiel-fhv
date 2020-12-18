@@ -1,0 +1,6 @@
+package com.lab3.actors;
+
+public enum ActorTyp {
+    FRIDGE, AC, TEMPRETURE, MEDIASTATION, BLINDS,WEATHER_SIM, WEATHER_SENSOR, TEMPSIMULATOR
+
+}

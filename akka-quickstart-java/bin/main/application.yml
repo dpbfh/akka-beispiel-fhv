@@ -1,0 +1,52 @@
+micronaut:
+  name: Beispiel_Despot_Dominik
+  application:
+    api:
+      swagger:
+        path: /api-docs/swagger
+        version: 3.19.4
+        layout: StandaloneLayout
+        deepLinking: true
+        urls:
+          - name: ubw-rest
+            url: /api-docs/swagger/ubw-rest-0.1.yml
+    intercept-url-map:
+      -
+        pattern: /swagger/**
+        access:
+          - isAnonymous()
+      - pattern: /swagger-ui/**
+        access:
+          - isAnonymous()
+      - pattern: /rapidoc/**
+        access:
+          - isAnonymous()
+      - pattern: /redoc/**
+        access:
+          - isAnonymous()``
+  router:
+    static-resources:
+      swagger:
+        paths: classpath:META-INF/swagger
+        mapping: /swagger/**
+      redoc:
+        paths: classpath:META-INF/swagger/views/redoc
+        mapping: /redoc/**
+      rapidoc:
+        paths: classpath:META-INF/swagger/views/rapidoc
+        mapping: /rapidoc/**
+      swagger-ui:
+        paths: classpath:META-INF/swagger/views/swagger-ui
+        mapping: /swagger-ui/**
+  server:
+    port: 4200
+    cors:
+      enabled: true
+      configurations:
+        web:
+          allowedOrigins:
+            - .*
+          allowedMethods:
+            - POST
+            - PUT
+            - GET

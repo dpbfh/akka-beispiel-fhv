@@ -1,0 +1,42 @@
+Klima anlage schaltet ein wenn Temperatur über 25 °C und aus wenn Temperatur < 22°C
+
+Beim Anschalten der Mediastation schließen die Rolläden und lassen sich auch nicht manuell öffnen
+
+wenn die Sonne scheint werden die Rolläden geschlossen werden allerdings nicht wieder geöfnnet annahme nur kurze Wolke würde dauer Last für Motoren verursachen.
+
+
+Kühlschrank:
+	Man kann nur Produkte Konsumieren welche drinnen sind.
+	Produkte werden einzeln entnommen.
+	Wenn alle Produkte einer Kategorie weg sind welche zur standart füllung gehören werden diese erneut bestellt
+	
+	Produkte können nur dan bestellt werden wen genug Platz ist. (Sensoren dafür direkt im Kühlschrank eingebaut)
+
+
+Starten des Programmes:
+	Application von Akka-quickstart-java Laufen lassen
+
+Bitte nur einen Client verwenden sonst könnte es zu Problemen kommen :) 
+Interaktion mit den Aktoren:
+	http://localhost:4200/swagger/views/swagger-ui#/
+
+Interaktion 2:
+	Dotnet Client (Anforderung dotnet 5)
+		wurde erstellt da wir Blazorpages einmal ausprobieren wollten
+		im ordner CSharpClient/Akkaclient dotnet run
+			-> localhost:5000
+
+
+
+Infos:
+Diese Exception tritt auf wenn ein client abschaltet
+
+[2020-12-18 19:41:12,476] [ERROR] [io.micronaut.http.server.netty.RoutingInBoundHandler] [default-nioEventLoopGroup-1-11] [] - Unexpected error occurred: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+
+
+Bei Fragen gerne Melden dbo2019@students.fhv.at
+
+Wir wünschen erholsame Feiertage 
+Despot & Dominik
+
